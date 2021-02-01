@@ -1,0 +1,21 @@
+{
+  "name": "se-client-hunt",
+  "version": "1.0.0",
+  "description": "This is a client hunt app",
+  "main": "main.js",
+  "scripts": {
+    "start":"index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikrishna1545/se-client-hunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saikrishna1545/se-client-hunt/issues"
+  },
+  "homepage": "https://github.com/Saikrishna1545/se-client-hunt#readme"
+}
+
