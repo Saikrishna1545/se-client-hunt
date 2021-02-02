@@ -7,8 +7,8 @@ export default [
 
     {
         Name: 'The Oasis On Lake Travis',
-        Latitude: 38.9704,
-        Longitude:  -95.2769
+        Latitude: 38.971507,
+        Longitude:  -95.268256
        
     }
     
