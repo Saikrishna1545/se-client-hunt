@@ -6,10 +6,23 @@ export default [
     }, 
 
     {
-        Name: 'horizon west apartments',
-        Latitude: 40.35594,
-        Longitude:  -94.88267
+        Name: 'Colden Hall',
+        latitude: 40.35112431021874,
+        longitude: -94.8824199980626,
+      
+    },
+    {
+        Name: 'Hughes Fieldhouse',
+        latitude: 40.3540856,
+        longitude: -94.8881649,
+     
+    },
+    {
+        Name: 'Horizons West Apartments',
+        latitude: 40.356012,
+        longitude: -94.881485,
        
+
     }
     
 ];
