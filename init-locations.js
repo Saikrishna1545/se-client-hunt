@@ -6,9 +6,9 @@ export default [
     }, 
 
     {
-        Name: 'The Oasis On Lake Travis',
-        Latitude: 38.971507,
-        Longitude:  -95.268256
+        Name: 'horizon west apartments',
+        Latitude: 40.35594,
+        Longitude:  -94.88267
        
     }
     
